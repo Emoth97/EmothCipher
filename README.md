@@ -1,5 +1,5 @@
 # EmothCipher
-安卓国家密码算法库 SM3
+安卓国家密码算法库
 
 How to
 To get a Git project into your build:
